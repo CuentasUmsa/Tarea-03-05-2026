@@ -1,0 +1,100 @@
+body{
+    background-image: url(../images/ULTRAKILL\ .png);
+    background-repeat:no-repeat;
+    background-position:bottom;
+    background-size:2000px ;
+    color: rgb(175, 0, 0);
+    background-attachment: fixed;
+}
+
+.titulo{
+    font-size: 150px;
+    font-family: impact;
+    text-align: center;
+    font-weight: 100;
+    margin: 10px;
+}
+
+.ll{
+    margin-right: auto;
+    margin-left: auto;
+    table-layout: fixed;
+    width: 80%;  
+ 
+}
+
+.l1{
+    border: 5px;
+    border-style: dashed;
+    border-width: 12px;
+    padding: 10px;
+    font-size: 25px;
+    font-family: Impact;
+    font-weight: 100;
+    text-align: center;
+    overflow: hidden;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.text1{
+    border: 25px;
+    border-color: rgb(100, 0, 0);
+    border-style:double ;
+    margin: 50px;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(150, 15, 0);
+}
+.text1 p{
+    font-family: impact;
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+}
+
+.resumen{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 20px;
+}
+.text2{
+    border: 25px;
+    border-color: rgb(100, 0, 0);
+    border-style:double ;
+    margin: 25px;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(150, 15, 0);
+}
+.text2 p{
+    font-family: impact;
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+    font-size: 25px;
+}
+
+.fot1{
+    height: 40%; width: 40%;
+    border: 25px;
+    border-color: rgb(100, 0, 0);
+    border-style:double ;
+    margin: 50px;
+}
+
+.text3{
+    border: 25px;
+    border-color: rgb(100, 0, 0);
+    border-style:double ;
+    margin: 25px;
+    padding: 10px;
+    text-align: center;
+    font-family: impact;
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+    font-size: 25px;
+}
